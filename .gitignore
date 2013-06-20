@@ -213,3 +213,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+
+
+########
+## My stuff
+########
+js/
+lib/
+meshes/
+textures/
